@@ -1,0 +1,1 @@
+# Defines amber infrastructure variables.
